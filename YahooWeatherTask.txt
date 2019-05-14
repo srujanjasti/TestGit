@@ -1,0 +1,15 @@
+Summary: Calling Yahoo Weather API using RESTful webservice in Java.
+
+Description: For calling Yahoo Weather API using RESTful webservices in Java, we need to follow the below steps. 
+
+1.	Create an account in yahoo.com
+2.	Go to https://developer.yahoo.com/weather/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAuXWsOT1SryhXkuHdmOaJbwv_Tfo_j0YF0I0KthRjmNbzhKmfsuzqlPJOSEa85xRHsHBuwFd_cdqQ0Z2MHXwdYLUxVnG1Vf0OGwqdRhsoCh5zqk6GBEjD3Mp4f8Dj06HJfmFatgwVIkZRO9tGqcnMzWiNU1GrrDhjO-3-MbR8yO
+3.	Create an App and you will get some API keys. Secure your API keys.
+4.	Whitelist your app by going here https://goo.gl/forms/ixXUBJ00xMQc5ne23 and giving your app ID which you obtained in Step 3.
+5.	Open Eclipse and create a new maven project. 
+6.	Create a new class and write your program there.
+7.	Add dependencies into pom.xml as per the requirement.  
+8.	Go to web.xml file and update the path of the class file you created in Step 7. 
+9.	Check for errors and run the program on the server. 
+
+
